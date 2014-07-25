@@ -35,7 +35,7 @@ function  [En_av,sigma_av,Transmission_av] = readdata(names,abundancy,density,at
 %         thickness_Ir=0.04;
 %         [x,y,yy]=readdata(names_Ir,abundancy_Ir,density_Ir,atomic_molarmass_Ir,thickness_Ir);
 %
-% Diane Lançon
+% Diane Lancon
 % octobre 2012
 
 for i=1:size(abundancy)
